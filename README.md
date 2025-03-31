@@ -1,2 +1,2 @@
-# ByteForge
+# Byte Forge
 Free code challenges
